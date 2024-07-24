@@ -10,7 +10,7 @@ const Isuru = {
   architecture: ["full-stack-development"], 
 }
 ```
-[![Isuru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Isurudh&theme=react-dark)](https://github.com/Isurudh/github-readme-activity-graph)
+[![Isuru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isurunvn&theme=react-dark)](https://github.com/isurunvn/github-readme-activity-graph)
 
 
 <center> <img src="https://komarev.com/ghpvc/?username=sachithdh&&style=flat-square" align="center" /> </center>
