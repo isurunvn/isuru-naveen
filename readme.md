@@ -4,10 +4,11 @@
 
 ```javascript
 const Isuru = {
-  skills: [ C, SQL, JavaScript, HTML, CSS, PHP, Java, MERN ],
+  education: ["Undergraduate", "University of Colombo School of Computing"],
+  skills: [ C, SQL, HTML, CSS, JavaScript, PHP, Java, MERN ],
   beginner: ["Web development", Javascript/MERN],
-  editor: ["VS Code", "IntelliJ IDEA"],
-  architecture: ["full-stack-development"], 
+  mostPreferred: ["back-end-development", Express, Node, MongoDB],
+  editor: ["VS Code", "IntelliJ IDEA"]
 }
 ```
 [![Isuru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isurunvn&theme=react-dark)](https://github.com/isurunvn/github-readme-activity-graph)
