@@ -24,7 +24,7 @@ const Isuru = {
 
 <br><br><br/>
 
-![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isurudh&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isurudh&layout=compact&theme=transparent)
+![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=isurunvn&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isurunvn&layout=compact&theme=transparent)
 
 <img src="https://github.com/sachithdh-d/sachithdh-d/blob/main/Images/happy-spaceman.gif" width="120px" align="right" style="margin-left:500px;">
 
