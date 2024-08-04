@@ -40,6 +40,6 @@
 ---
 
 ### 📊 GitHub Stats
-- **Repositories:** ![Total Repositories](https://img.shields.io/github/repositories/isurunvn?style=flat-square)
-- **Contributed Projects:** ![Contributions](https://img.shields.io/github/contributions/isurunvn?style=flat-square)
+- **Repositories:** ![Total Repositories](https://img.shields.io/github/repo-count/isurunvn?style=flat-square)
+- **Contributed Projects:** ![Contributions](https://img.shields.io/badge/contributions-53-green?style=flat-square) <!-- Adjust manually or fetch via API -->
 - **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=isurunvn&style=flat-square)
