@@ -15,7 +15,7 @@
    ![MERN](https://img.shields.io/badge/-MERN-61DAFB?style=flat-square&logo=react)
 
 ### 🌱 Currently Learning
- **Web Development**
+ - **Web Development** **|**
  **JavaScript/MERN Stack**
 
 ### 💻 Most Preferred
