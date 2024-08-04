@@ -1,9 +1,6 @@
 ## Hello! I'm Isuru 👋
 
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="flex: 1; padding-right: 10px;">
-    ### 🎓 Education
+### 🎓 Education
 - **Undergraduate** at **University of Colombo School of Computing**
 
 ### 🛠 Skills
@@ -16,10 +13,8 @@
   - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
   - ![MERN](https://img.shields.io/badge/-MERN-61DAFB?style=flat-square&logo=react)
-  </div>
 
-  <div style="flex: 1; padding-left: 10px;">
-  ### 🌱 Currently Learning
+### 🌱 Currently Learning
 - **Web Development**
 - **JavaScript/MERN Stack**
 
@@ -31,9 +26,7 @@
 
 ### 🛠 Editor of Choice
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
-  </div>
-</div>
+- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
 
 ---
 
