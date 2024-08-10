@@ -33,7 +33,9 @@
 [![Isuru's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isurunvn&theme=react-dark)](https://github.com/isurunvn/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isurunvn&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true" alt="Isuru's GitHub stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=isurunvn&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true" alt="Isuru's GitHub stats" /> -->
+     <img width=390 src="https://github-readme-stats.vercel.app/api?username=isurunvn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurunvn&layout=compact&theme=transparent" alt="Top Langs" />
 </div>
 
