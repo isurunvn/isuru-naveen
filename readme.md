@@ -28,10 +28,10 @@
  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
 
-### 📭 Reach me 
-- *isurunaveen27@gmail.com*
-
-### 📲 Connect with me
+### 📲 Reach Me 
+- <a href="mailto:isurunaveen27@gmail.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="isurunaveen27@gmail.com" height="30" width="40" />
+</a>
 - <a href="https://www.linkedin.com/in/isuru-n-liyanaarachchi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isurun" height="30" width="40" /></a>
  <a href="https://instagram.com/isuru_nvn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isuru_nvn_" height="30" width="40" /></a>
 
