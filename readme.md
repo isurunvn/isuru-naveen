@@ -17,7 +17,7 @@
 - <img src="https://skillicons.dev/icons?i=vscode,idea" />
 
 ### 📲 Reach Me 
-- <a href="isurunaveen27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+- <a emailto="isurunaveen27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/isuru-n-liyanaarachchi/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://instagram.com/isuru_nvn_" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 
