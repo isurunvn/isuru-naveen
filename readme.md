@@ -9,9 +9,8 @@
 ### 💡 Technologies
 - <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,npm,spring,firebase,figma,git,github,materialui,postman,qt" />
 
-### 💻 Most Preferred
-- **Back-End Development:** 
--<img src="https://skillicons.dev/icons?i=mongodb,express,nodejs"/>
+### 💻 Most Preferred - **Back-End Development with** 
+- <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs"/>
 
 ### 🛠 Editor of Choice
 - <img src="https://skillicons.dev/icons?i=vscode,idea" />
