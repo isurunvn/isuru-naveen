@@ -33,6 +33,4 @@
 
 ---
 
-### 📊 Stats
-- **Contributed Projects:** ![Contributions](https://img.shields.io/badge/contributions-53-green?style=flat-square) <!-- Adjust manually or fetch via API -->
-- **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=isurunvn&style=flat-square)
+- ![Profile Views](https://komarev.com/ghpvc/?username=isurunvn&style=flat-square)
