@@ -4,23 +4,23 @@
 - **Undergraduate** at **University of Colombo School of Computing**
 
 ### 🛠 Languages
-- <img src="https://skillicons.dev/icons?i=c,html,css,javascript,mysql,php,java,python" />
+- <img src="https://skillicons.dev/icons?i=c,html,css,javascript,mysql,php,java,python,r" />
 
 ### 💡 Technologies
 - <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,npm,spring,firebase,figma,git,github,materialui,postman,qt" />
 
 ### 💻 Most Preferred
 - **Back-End Development:** 
-  <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs"/>
+  -<img src="https://skillicons.dev/icons?i=mongodb,express,nodejs"/>
 
 ### 🛠 Editor of Choice
-- <img src="https://skillicons.dev/icons?i=vscode, idea" />
+- <img src="https://skillicons.dev/icons?i=vscode,idea" />
 
 ### 📲 Reach Me 
 - <a href="isurunaveen27@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-- <a href="https://www.linkedin.com/in/isuru-n-liyanaarachchi/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/isuru-n-liyanaarachchi/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
  <a href="https://instagram.com/isuru_nvn_" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 
 ---
