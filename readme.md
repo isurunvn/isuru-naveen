@@ -4,29 +4,24 @@
 - **Undergraduate** at **University of Colombo School of Computing**
 
 ### 🛠 Languages
-- <img src="https://skillicons.dev/icons?i=c,html,css,javascript,php,java,python" />
+- <img src="https://skillicons.dev/icons?i=c,html,css,javascript,mysql,php,java,python" />
 
 ### 💡 Technologies
-- <img src="https://skillicons.dev/icons?i=mongodb,express,react,node,springboot,firebase,pyqt6" />
-
-### 🌱 Currently Learning
- - **Web Development** **|**
- **JavaScript/MERN Stack**
+- <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,npm,spring,firebase,figma,git,github,materialui,postman,qt" />
 
 ### 💻 Most Preferred
 - **Back-End Development:** 
-   ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+  <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs"/>
 
 ### 🛠 Editor of Choice
- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
+- <img src="https://skillicons.dev/icons?i=vscode, idea" />
 
 ### 📲 Reach Me 
-- *isurunaveen27@gmail.com*
-- <a href="https://www.linkedin.com/in/isuru-n-liyanaarachchi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isurun" height="30" width="40" /></a>
- <a href="https://instagram.com/isuru_nvn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isuru_nvn_" height="30" width="40" /></a>
+- <a href="isurunaveen27@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+- <a href="https://www.linkedin.com/in/isuru-n-liyanaarachchi/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+ <a href="https://instagram.com/isuru_nvn_" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 
 ---
 
