@@ -7,7 +7,7 @@
 - <img src="https://skillicons.dev/icons?i=c,html,css,javascript,mysql,php,java,python,r" />
 
 ### 💡 Technologies
-- <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,npm,spring,firebase,figma,git,github,materialui,postman,qt" />
+- <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,npm,spring,,materialui,firebase,qt,figma,git,github,postman" />
 
 ### 💻 Most Preferred - **Back-End Development with** 
 - <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs"/>
