@@ -3,8 +3,11 @@
 ### 🎓 Education
 - **Undergraduate** at **University of Colombo School of Computing**
 
-### 🛠 Skills
+### 🛠 Languages
 - <img src="https://skillicons.dev/icons?i=c,html,css,javascript,php,java,python" />
+
+### 💡 Technologies
+- <img src="https://skillicons.dev/icons?i=mongodb,express,react,node,springboot,firebase,pyqt6" />
 
 ### 🌱 Currently Learning
  - **Web Development** **|**
