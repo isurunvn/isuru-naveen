@@ -13,7 +13,7 @@
 - <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs"/>
 
 ### 🛠 Editor of Choice
-- <img src="https://skillicons.dev/icons?i=vscode,idea,cursor" />
+- <img src="https://skillicons.dev/icons?i=vscode,idea" />
 
 ### 📲 Reach Me 
 - <a href="mailto:isurunaveen27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
